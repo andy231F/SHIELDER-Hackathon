@@ -1,0 +1,42 @@
+.bg-db {
+  background-color: #ffffff;
+}
+
+.navbar2 {
+  background-color: #ffffff !important;
+}
+
+.nav-link {
+  color: #2b2b2b !important;
+  font-family: "Caprasimo", cursive;
+}
+
+.bg-color {
+  background-color: #2b2b2b !important;
+  color: #ffffff;
+}
+
+.dropdown-menu {
+  background-color: #2b2b2b !important;
+}
+
+.dropdown-menu a {
+  color: white;
+  font-family: "Caprasimo", cursive;
+}
+
+.magpad {
+  margin: 10%;
+}
+
+.textty {
+  font-size: 20px;
+  margin: 5%;
+  font-family: "Lora", serif;
+}
+
+.textty_2 {
+  font-size: 23px;
+  margin: 2%;
+  font-family: "Caprasimo", cursive;
+}

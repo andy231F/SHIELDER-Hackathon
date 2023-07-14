@@ -1,0 +1,61 @@
+body {
+  background-color: #ffffff !important;
+}
+
+.bg-color {
+  background-color: #b5cbe4 !important;
+}
+
+.bg-green {
+  background-color: #b5cbe4;
+}
+
+.navbar {
+  background-color: #b5cbe4 !important;
+}
+
+.nav-link {
+  color: #2b2b2b !important;
+  font-family: "Caprasimo", cursive;
+}
+
+.vidpad {
+  margin: 10%;
+}
+video {
+  border: 1px solid black;
+  border-radius: 30px;
+  display: block;
+  margin: 0 auto 0 40px;
+}
+.change-h3 {
+  font-family: "Climate Crisis", cursive;
+  font-size: 50px;
+  margin: 3%;
+}
+
+.textty {
+  font-size: 20px;
+  margin: 5%;
+  font-family: "Lora", serif;
+}
+
+.textty_2 {
+  font-size: 30px;
+  margin: 2%;
+  font-family: "Caprasimo", cursive;
+}
+
+.cita {
+  margin: 2%;
+}
+
+.changep {
+  color: #2b2b2b;
+  font-family: "Lora", serif;
+  font-size: 17px;
+}
+
+.iconsmo {
+  font-size: 50px;
+}
